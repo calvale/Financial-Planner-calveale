@@ -1,0 +1,7 @@
+For this assignment, I used an AI-generated solution as a comparison for my own financial planner program.
+
+Two things the AI did well were organizing the code into multiple functions and checking for invalid inputs. For example, the AI solution used separate functions for the annual return rate, payment timing, and payment calculation. This made the program easier to read and understand. The program also checked for invalid values such as negative savings or invalid payment timing.
+
+Two possible problems were that some parts of the formula were difficult to understand at first and the code still needed to be tested carefully. Another issue is that AI-generated code may not always perfectly match course style guidelines or assignment expectations. It also looked very odd and didnt really look formatted correctly what so ever.
+
+I would not fully trust AI-generated code in a real project without reviewing and testing it myself first. AI can help with structure and ideas, but the programmer still needs to understand the code and make sure everything works correctly.
