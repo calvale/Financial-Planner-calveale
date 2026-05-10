@@ -1,3 +1,10 @@
+/*
+ * Author: Aleena Calvert
+ * File: planner.cpp
+ * Description: Calculates recurring payments needed
+ * to reach a future savings goal.
+ */
+
 #include <iostream>
 #include <iomanip>
 #include <cmath>
@@ -6,7 +13,9 @@
 
 using namespace std;
 
-// Makes the timing lowercase
+/*
+ * Makes the timing lowercase.
+ */
 string make_lowercase(string word) {
 
     for (int i = 0; i < word.length(); i++) {
@@ -16,7 +25,9 @@ string make_lowercase(string word) {
     return word;
 }
 
-// Gets the annual return rate
+/*
+ * Gets the annual return rate.
+ */
 double get_rate() {
 
     double rate;
